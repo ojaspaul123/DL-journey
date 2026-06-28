@@ -8,7 +8,7 @@ A Convolutional Neural Network built from scratch with TensorFlow/Keras to class
 
 | Input: Cat | Input: Dog |
 |---|---|
-| <img width="538" height="371" alt="cat" src="https://github.com/user-attachments/assets/82dc01f2-e84d-4921-938c-6db21a0726d9" /> | <img width="553" height="553" alt="dog" src="https://github.com/user-attachments/assets/4ea6eec0-85ca-4f0f-8f64-86cad58f99c8" /> |
+| <img src="samples/cat.jpg" width="300" /> | <img src="samples/dog.jpg" width="300" /> |
 | Predicted: **CAT** ✅ | Predicted: **DOG** ✅ |
 
 ---
